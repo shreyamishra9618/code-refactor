@@ -3,3 +3,5 @@
 Refacoring the given code to make it more user understandable and readable.
 Reduced the redundancy in the CSS file.
 Proper and understandable naming convention.
+
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/images/myWebPage.jpg)
